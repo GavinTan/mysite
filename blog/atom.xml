@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://tanwen.net/blog</id>
-    <title>藏经阁 Blog</title>
+    <title>且随疾风前行 Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://tanwen.net/blog"/>
-    <subtitle>藏经阁 Blog</subtitle>
+    <subtitle>且随疾风前行 Blog</subtitle>
     <icon>http://tanwen.net/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
