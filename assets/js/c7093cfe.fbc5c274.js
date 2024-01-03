@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmysite=self.webpackChunkmysite||[]).push([[7579],{9257:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/rd-web","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"","blogTitle":"Blog"}')}}]);

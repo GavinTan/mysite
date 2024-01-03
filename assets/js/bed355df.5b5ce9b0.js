@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmysite=self.webpackChunkmysite||[]).push([[4265],{90999:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/windows-server-2022","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmysite=self.webpackChunkmysite||[]).push([[8365],{18944:e=>{e.exports=JSON.parse('{"label":"RDWeb HTML5","permalink":"/blog/tags/rd-web-html-5","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

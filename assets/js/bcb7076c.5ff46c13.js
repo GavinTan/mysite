@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmysite=self.webpackChunkmysite||[]).push([[3676],{61918:e=>{e.exports=JSON.parse('{"label":"Percona","permalink":"/blog/tags/percona","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

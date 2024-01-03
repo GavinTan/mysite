@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmysite=self.webpackChunkmysite||[]).push([[8418],{37416:s=>{s.exports=JSON.parse('{"label":"pxc","permalink":"/blog/tags/pxc","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
