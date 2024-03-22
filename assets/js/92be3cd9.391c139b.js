@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmysite=self.webpackChunkmysite||[]).push([[5313],{19017:e=>{e.exports=JSON.parse('{"label":"WireGuard","permalink":"/blog/tags/wire-guard","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

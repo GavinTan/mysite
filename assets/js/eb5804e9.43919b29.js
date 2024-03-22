@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmysite=self.webpackChunkmysite||[]).push([[1959],{46507:e=>{e.exports=JSON.parse('{"label":"Windows Server 2022","permalink":"/blog/tags/windows-server-2022","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

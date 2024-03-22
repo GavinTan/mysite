@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmysite=self.webpackChunkmysite||[]).push([[4819],{9526:e=>{e.exports=JSON.parse('{"label":"Percona XtraDB Cluster","permalink":"/blog/tags/percona-xtra-db-cluster","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
