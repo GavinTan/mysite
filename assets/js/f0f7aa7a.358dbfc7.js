@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmysite=self.webpackChunkmysite||[]).push([[658],{83705:s=>{s.exports=JSON.parse('{"tag":{"label":"ips","permalink":"/blog/tags/ips","allTagsPath":"/blog/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/blog/tags/ips","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"","blogTitle":"Blog"}}')}}]);

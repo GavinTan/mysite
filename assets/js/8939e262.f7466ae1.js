@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmysite=self.webpackChunkmysite||[]).push([[2127],{46482:s=>{s.exports=JSON.parse('{"label":"proxysql","permalink":"/blog/tags/proxysql","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

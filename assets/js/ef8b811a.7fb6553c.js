@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmysite=self.webpackChunkmysite||[]).push([[8947],{56600:e=>{e.exports=JSON.parse('{"authors":[{"name":"GavinTan","title":"DevOps Engineer","url":"https://github.com/GavinTan","imageURL":"/img/logo.webp","key":"gavintan","page":null,"count":8}]}')}}]);
